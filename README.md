@@ -1,2 +1,2 @@
-# Python_lean
+# Python
 my Lean space
